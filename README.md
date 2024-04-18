@@ -1,0 +1,1 @@
+# sde-skills-genai-workshop
